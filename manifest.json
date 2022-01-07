@@ -1,0 +1,32 @@
+{
+    "name": "Shunjid",
+    "short_name": "Shunjid",
+    "lang": "en-US",
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#512cd4",
+    "background_color": "#FFFFFF",
+    "icons": [
+        {
+          "src": "assets/logo/Shunjid128.png",
+          "sizes": "128x128"
+        },
+        {
+          "src": "assets/logo/Shunjid192.png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "assets/logo/Shunjid256.png",
+          "sizes": "256x256"
+        },
+        {
+          "src": "assets/logo/Shunjid384.png",
+          "sizes": "384x384"
+        },
+        {
+          "src": "assets/logo/Shunjid512.png",
+          "sizes": "512x512",
+          "purpose": "any maskable"
+        }
+      ]
+}
